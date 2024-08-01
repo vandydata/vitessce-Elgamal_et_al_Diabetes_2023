@@ -1,5 +1,5 @@
 export const myViewConfig = {
-    "name": "Vittesce OMICS vieweer",
+    "name": "Elgamal_et_al_Diabetes_2023",
     "version": "1.0.4",
     "description": "",
     "datasets": [
@@ -9,7 +9,7 @@ export const myViewConfig = {
               "files": [
                   {
                       "fileType": "anndata.zarr", 
-                      "url": "https://cds-pancreatlas-public.s3.amazonaws.com/Elgamal_et_al_Diabetes_2023.small.ome.zarr/", 
+                      "url": "https://cds-pancreatlas-public.s3.amazonaws.com/Elgamal_et_al_Diabetes_2023.opt.ome.zarr/", 
                       "options": {
                           "obsEmbedding": [
                               {
